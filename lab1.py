@@ -1,6 +1,6 @@
 #  exercise 1.1
-statement = input("Enter some text: ")
-print(statement)
+entertext = input("Enter some text: ")
+print(entertext)
 
 # exercise 1.2
 inputnumber = int(input("Enter a number: "))
